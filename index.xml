@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps Blog by Vishwas</title>
-    <link>https://vishwas1234567.github.io/devopsblogbyvishwasn.github.io/</link>
+    <link>https://vishwas1234567.github.io/scrumblogbyvishwas/</link>
     <description>Recent content on DevOps Blog by Vishwas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Sep 2021 23:39:12 +0530</lastBuildDate><atom:link href="https://vishwas1234567.github.io/devopsblogbyvishwasn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 23:39:12 +0530</lastBuildDate><atom:link href="https://vishwas1234567.github.io/scrumblogbyvishwas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scrum3</title>
-      <link>https://vishwas1234567.github.io/devopsblogbyvishwasn.github.io/posts/scrum3/</link>
+      <link>https://vishwas1234567.github.io/scrumblogbyvishwas/posts/scrum3/</link>
       <pubDate>Wed, 29 Sep 2021 23:39:12 +0530</pubDate>
       
-      <guid>https://vishwas1234567.github.io/devopsblogbyvishwasn.github.io/posts/scrum3/</guid>
+      <guid>https://vishwas1234567.github.io/scrumblogbyvishwas/posts/scrum3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scrum2</title>
-      <link>https://vishwas1234567.github.io/devopsblogbyvishwasn.github.io/posts/scrum2/</link>
+      <link>https://vishwas1234567.github.io/scrumblogbyvishwas/posts/scrum2/</link>
       <pubDate>Wed, 29 Sep 2021 23:38:06 +0530</pubDate>
       
-      <guid>https://vishwas1234567.github.io/devopsblogbyvishwasn.github.io/posts/scrum2/</guid>
+      <guid>https://vishwas1234567.github.io/scrumblogbyvishwas/posts/scrum2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scrum1</title>
-      <link>https://vishwas1234567.github.io/devopsblogbyvishwasn.github.io/posts/scrum1/</link>
+      <link>https://vishwas1234567.github.io/scrumblogbyvishwas/posts/scrum1/</link>
       <pubDate>Wed, 29 Sep 2021 23:28:25 +0530</pubDate>
       
-      <guid>https://vishwas1234567.github.io/devopsblogbyvishwasn.github.io/posts/scrum1/</guid>
+      <guid>https://vishwas1234567.github.io/scrumblogbyvishwas/posts/scrum1/</guid>
       <description></description>
     </item>
     
