@@ -31,7 +31,7 @@ body {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background: #0026ff;
+    background: #000000;
     color: #ffffff;
   }
 }
@@ -206,7 +206,7 @@ body > footer {
 }
 
 .highlight pre {
-  background: rgba(0, 26, 255, 0.9)!important;
+  background: #000000!important;
   color: white!important;
 }
 
